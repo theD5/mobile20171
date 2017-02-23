@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+        var greeting = "Hello World";
+
+        console.log(greeting);
+
+        var firstName = "Homer";
+        var lastName = "Simpson";
+
+        var fullName = firstName + " " + lastName;
+        console.log(fullName);
+        var age = 40;
+        console.log("Homer is aged "+ age);
+
+        var num1= "10";
+        var num2= "11";
+        console.log(num1+num2);
+        console.log(parseInt(num1)+ parseInt(num2));
+
+        var car = {}
+        car.mf = "Nissan"
+        car.model="Navara"
+        car.colour = "Black"
+
+        console.log("car data", car.mf, car.model, car.colour)
+        console.log("car data[%s,%s,%s]", car.mf, car.model, car.colour)
+
+        var dwarves =[]
+        dwarves[0]= "Dopey"
+        dwarves[1]= "Grumpy"
+        console.log(dwarves[0],dwarves[1])
+
+        console.log("The number of dwarves is " + dwarves.length)
+        var planets = ["Mercury", "Venus", "Earth", "Mars"]
+        planets.reverse();
+        planets.unshift("Jupiter") // add at beginning
+        planets.pop() //remove last element
+
+        console.log(planets.join()) //join together with default ,
+
+        for (var i=0; i<planets.length; i++){
+            console.log("Planet at position "+ i+ " is "+ planets[i])
+        }
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+Your first name <input type="text" id="firstName"/>
+Your first number <input type="text" id="firstNumber"/>
+Your Second number  <input type="text" id="secondNumber"/>
+<button id ="btnGreeting" onclick="greeting()">
+    Greeting
+</button>
+<script>
+    function greeting(){
+        console.log("Hello World");
+
+        var firstNameObject = document.getElementById("firstName")
+        console.log("Hello " + firstNameObject.value)
+        var firstNumber = parseInt(document.getElementById("firstNumber").value)
+        var secondNumber = parseInt(document.getElementById("secondNumber").value)
+        console.log("sum is ", firstNumber +secondNumber)
+    }
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
