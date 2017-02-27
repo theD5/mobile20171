@@ -3,42 +3,91 @@
 <head>
     <meta charset="UTF-8">
     <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+       <script>
+        $(function(){
+            $('#btnGreeeting').on("click",function() {
+                console.log("Greeting has been pressed");
+                var firstNameObject = document.getElementById("firstName")
+                console.log("Hello " + firstNameObject.value)
+                var firstNumber = parseInt(document.getElementById("firstNumber").value)
+                var secondNumber = parseInt(document.getElementById("secondNumber").value)
+                console.log("sum is ", firstNumber + secondNumber)
+            });
+
+            $('#btnToggle').on("click",function(){
+               //$('#box').show();
+               $('#box').toggle();
+            });
+
+            $('#btnListing').on("click",function(){
+               var htmlString = "<ul>";
+                htmlString +="<li>";
+                htmlString +="item1";
+                htmlString +="</li>";
+
+                htmlString +="<li>";
+                htmlString +="item2";
+                htmlString +="</li>";
+                htmlString +="</ul>";
+
+                $('#messagePanel').html(htmlString);
+               $('#messagePanel').append(getListing());
+               $('#messagePanel').append(getStarSigns());
+
+            });
+
+            function getListing(){
+                var rainbow= ["Red", "Orange"];
+                var htmlString ="<ol>";
+                for (var i=0;i<rainbow.length; i++) {
+                    htmlString += "<li>"
+                    htmlString += rainbow[i]
+                    htmlString += "</li>"
+                }
+                htmlString+="</ol>";
+                return htmlString;
+            };
+
+            function getStarSigns(){
+                var signs= ["Aries", "Taurus"];
+                var htmlString =[];
+                for (var i=0;i<signs.length; i++) {
+                    htmlString.push("<li>")
+                    htmlString.push(signs[i])
+                    htmlString.push("</li>")
+                }
+                htmlString.push("</ol>");
+                return htmlString.join("");
+            };
+
+        });
+    </script>
+    <style>
+        .hide{
+            display: none;
+        }
+        .box{
+            border:solid 1px red;
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+
 </head>
 <body>
 Your first name <input type="text" id="firstName"/>
 Your first number <input type="text" id="firstNumber"/>
 Your Second number  <input type="text" id="secondNumber"/>
-<button id ="btnGreeting" onclick="greeting()">
-    Greeting
-</button>
-<script>
-    function greeting(){
-        console.log("Hello World")
+<button id="btnGreeting">Greetings</button>
+<button id="btnToggle"> Box button </button>
+<button id="btnListing"> MSG button </button>
 
-        var firstNameObject = document.getElementById("firstName")
-        console.log("Hello " + firstNameObject.value)
-        var firstNumber = parseInt(document.getElementById("firstNumber").value)
-        var secondNumber = parseInt(document.getElementById("secondNumber").value)
-        console.log("sum is ", firstNumber +secondNumber)
-    }
-</script>
+
+<div id="box" class="box hide">
+    <div id="messagePanel"> </div>
+</div>
+
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
