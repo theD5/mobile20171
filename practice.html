@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+    <Script>
+        $(function(){
+           $('#btn1').on("click", function(){
+               $('#box1').toggle();
+            });
+            $('#box1').on("click",function(){
+               $('#box2').toggle();
+            });
+
+            $('#btn2').on("click", function(){
+                $('#box2').toggle();
+                $('#box2').html(getList());
+            });
+            $('#btn3').on("click", function(){
+                $('#box3').toggle();
+            });
+        });
+
+        function getList(){
+            var favColours=["Black","Red", "Blue","Gold"];
+            var htmlString ="<ol>";
+            for(var i =0;i<favColours.length;i++){
+                htmlString +="<li>";
+                htmlString += favColours[i];
+                htmlString +="</li>";
+            }
+            htmlString += "</ol>";
+            return htmlString;
+        };
+    </script>
+
+    <style>
+        .box{
+            border:solid 1px red;
+            width: 200px;
+            height: 200px;
+        }
+        .hide{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <button id="btn1">Box 1</button>
+        <button id="btn2">Box 2</button>
+        <button id="btn3">Box 3</button>
+    </div>
+    <div>
+        <div id="box1" class="box hide"> b1 </div>
+        <div id="box2" class="box hide"> b2</div>
+        <div id="box3" class="box hide"> b3</div>
+    </div>
+
+</body>
+</html>
