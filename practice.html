@@ -1,63 +1,98 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="myApp1">
 <head>
     <meta charset="UTF-8">
     <title></title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="myApp.js"></script>
     <Script>
-        $(function(){
-           $('#btn1').on("click", function(){
-               $('#box1').toggle();
+        $(function () {
+            $('#firstName').on("blur", function(){
+                var fName= $('#firstName').val();
+                var sName= $('#secondName').val();
+                $('#namePanel').html(fName +" "+ sName);
             });
-            $('#box1').on("click",function(){
-               $('#box2').toggle();
+            $('#secondName').on("blur", function(){
+                var fName= $('#firstName').val();
+                var sName= $('#secondName').val();
+                $('#namePanel').html(fName +" "+ sName);
             });
 
-            $('#btn2').on("click", function(){
+            $('#btn1').on("click", function () {
+                $('#box1').toggle();
+            });
+            $('#box1').on("click", function () {
                 $('#box2').toggle();
                 $('#box2').html(getList());
             });
-            $('#btn3').on("click", function(){
+
+            $('#btn2').on("click", function () {
+                $('#box2').toggle();
+                $('#box2').html(getList());
+            });
+            $('#btn3').on("click", function () {
                 $('#box3').toggle();
             });
         });
 
-        function getList(){
-            var favColours=["Black","Red", "Blue","Gold"];
-            var htmlString ="<ol>";
-            for(var i =0;i<favColours.length;i++){
-                htmlString +="<li>";
+        function getList() {
+            var favColours = ["Black", "Red", "Blue", "Gold"];
+            var htmlString = "<ol>";
+            for (var i = 0; i < favColours.length; i++) {
+                htmlString += "<li>";
                 htmlString += favColours[i];
-                htmlString +="</li>";
+                htmlString += "</li>";
             }
             htmlString += "</ol>";
             return htmlString;
-        };
+        }
+        ;
     </script>
 
     <style>
-        .box{
-            border:solid 1px red;
+        #namePanel{
+            border: solid 1px green;
+            width: 300px;
+        }
+        .box {
+            border: solid 1px red;
             width: 200px;
             height: 200px;
         }
-        .hide{
+
+        .hide {
             display: none;
+        }
+
+        .result {
+            color: blue;
         }
     </style>
 </head>
 <body>
-    <div>
-        <button id="btn1">Box 1</button>
-        <button id="btn2">Box 2</button>
-        <button id="btn3">Box 3</button>
-    </div>
-    <div>
-        <div id="box1" class="box hide"> b1 </div>
-        <div id="box2" class="box hide"> b2</div>
-        <div id="box3" class="box hide"> b3</div>
-    </div>
+<div>
+    First Name: <input type="text" id="firstName"><br>
+    Second Name: <input type="text" id="secondName"><br>
+    You name is: <div id="namePanel"></div>
+
+</div>
+<div>
+    <button id="btn1">Box 1</button>
+    <button id="btn2">Box 2</button>
+    <button id="btn3">Box 3</button>
+</div>
+<div>
+    <div id="box1" class="box hide"> b1</div>
+    <div id="box2" class="box hide"> b2</div>
+    <div id="box3" class="box hide"> b3</div>
+</div>
+<div ng-controller="firstCtrl">
+    First Number: <input type="number" ng-model="firstNum"> <br>
+    Second Number: <input type="number" ng-model="secondNum"> <br>
+
+    <p class="result">The sum of {{firstNum}} + {{secondNum}} = {{firstNum + secondNum}}</p>
+</div>
 
 </body>
 </html>
