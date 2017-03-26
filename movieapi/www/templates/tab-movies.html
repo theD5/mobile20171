@@ -1,0 +1,15 @@
+<ion-view view-title="Movies">
+  <ion-content>
+    <ion-list>
+      <ion-item class="item-remove-animate item-avatar item-icon-right"
+                ng-repeat="movie in movies" type="item-text-wrap" href="#/tab/movies/{{movie.id}}">
+        <img ng-src="http://image.tmdb.org/t/p/w92/{{movie.poster_path}}">
+        <h2>{{movie.title}}</h2>
+        <p>{{movie.overview}}</p>
+        <i class="icon ion-chevron-right icon-accessory"></i>
+
+
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

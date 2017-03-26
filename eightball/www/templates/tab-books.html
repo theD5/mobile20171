@@ -1,0 +1,16 @@
+<ion-view view-title="Books">
+  <ion-content class="padding">
+    <h2>Books</h2>
+    <p>books are here!</p>
+
+    <ion-list>
+      <ion-item class="item-remove-animate" ng-repeat="book in books" type="item-text-wrap"
+                href="#/tab/books/{{book.id}}">
+        <h2>{{book.title}}</h2>
+        <p>{{book.author}}</p>
+        <i class="icon ion-chevron-right"></i>
+      </ion-item>
+    </ion-list>
+
+  </ion-content>
+</ion-view>
