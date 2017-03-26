@@ -81,7 +81,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
     .state('tab.ibat', {
       url: '/ibat',
       views: {
-        'tab-chats': {
+        'tab-ibat': {
           templateUrl: 'templates/tab-ibat.html',
           controller: 'IbatCtrl'
         }
