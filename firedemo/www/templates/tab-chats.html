@@ -1,0 +1,18 @@
+<ion-view view-title="Chats">
+  <ion-content>
+    <input type="text" ng-model="person.firstName" placeholder="firstname"/>
+    <input type="text" ng-model="person.age" placeholder="age"/>
+    <button class="btn" ng-click="addPerson()">Add Person</button>
+    <ion-list>
+      <ion-item ng-repeat="person in people" type="item-text-wrap" href="#/tab/chats/{{person.$id}}" >
+      <h2>{{person.firstName}}</h2>
+      <p>{{person.age}}</p>
+      <ion-option-button class="button-assertive" ng-click="people.$remove(person)">
+        Delete
+      </ion-option-button>
+      </ion-item>
+    </ion-list>
+
+
+  </ion-content>
+</ion-view>

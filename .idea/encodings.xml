@@ -10,13 +10,22 @@
     <file url="file://$PROJECT_DIR$/eightball/www/templates/tab-books.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eightball/www/templates/tab-dash.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eightball/www/templates/tabs.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/firedemo/www/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/firedemo/www/js/config.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/firedemo/www/js/controllers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/firedemo/www/templates/chat-detail.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/firedemo/www/templates/tab-chats.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/firedemo/www/templates/tab-dash.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movieapi/www/js/app.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movieapi/www/js/bike-controllers.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movieapi/www/js/bike-service.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movieapi/www/js/movie-controllers.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movieapi/www/js/movie-service.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/movieapi/www/lib/ngmap/config/karma.conf.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/movieapi/www/templates/bike-detail.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movieapi/www/templates/movie-detail.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movieapi/www/templates/tab-bikes.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/movieapi/www/templates/tab-map.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movieapi/www/templates/tab-movies.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movieapi/www/templates/tabs.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tabs/www/js/app.js" charset="UTF-8" />

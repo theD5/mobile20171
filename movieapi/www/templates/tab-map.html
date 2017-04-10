@@ -1,0 +1,13 @@
+<ion-view view-title="Dublin Bike Map">
+  <ion-content>
+    <map center="{{coords.latitude}}, {{coords.longitude}}" zoom="13"
+         disable-default-u-i="true">
+
+<marker ng-repeat="bikeStation in bikeStations"
+  position="{{[bikeStation.position.lat, bikeStation.position.lng]}}">
+</marker>
+
+
+    </map>
+  </ion-content>
+</ion-view>

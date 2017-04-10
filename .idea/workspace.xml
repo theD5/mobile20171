@@ -2,8 +2,338 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38505e11-e9e4-4bd7-ab5c-f71eebf4ce94" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/images/beachflag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/static/scripts/prettify/Apache-License-2.0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/Attr2MapOptions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/Attr2MapOptions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/CONTRIBUTORS.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/GeoCoder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/GeoCoder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/GoogleMapsApi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/GoogleMapsApi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/NavigatorGeolocation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/NavigatorGeolocation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/NgMap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/NgMap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/NgMapPool.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/NgMapPool.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/StreetView.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/StreetView.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/TODO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/USGSOverlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/aerial-rotate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/aerial-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/all-examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/all-examples.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/lib/angular-mocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/lib/angular-ui-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/lib/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/lib/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/js/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/lib/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/services/attr2-map-options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/services/attr2_options_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/bicycling-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/bicycling-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/bicycling-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/lib/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/filters/camel-case.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/circle-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/container.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/contributors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/control-custom-state.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/control-custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/control-disableUI.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/control-options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/control-positioning.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/control-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/custom-control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/custom-control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/custom-control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/custom-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/partials/custom-info-window-template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/custom-marker-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/custom-marker-clusterer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/custom-marker-custom-style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/custom-marker-ng-repeat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/custom-marker-two-way-binding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/custom-marker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/custom-marker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/custom-marker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/details.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/directions-with-current-location.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/directions-with-custom-marker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/directions-with-ng-repeat-panels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/directions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/directions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/directions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/directions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/directions2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/drawing-manager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/drawing-manager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/drawing-manager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/drawing-manager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/dynamic-maps-engine-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/dynamic-maps-engine-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/dynamic-maps-engine-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/filters/escape-regexp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/event-arguments.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/event-domlistener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/event-properties.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/event-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/example.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/examples.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/exceptions.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/fusion-tables-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/fusion-tables-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/fusion-tables-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/services/geo-coder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/services/geo_coder_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/geojson.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/scripts/get-starbucks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/services/google-maps-api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/groundoverlay-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/heatmap-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/heatmap-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/heatmap-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/heatmap.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/icon-complex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/icon-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/info-window.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/info-window.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/info-window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/infowindow-simple-max.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/infowindow-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/infowindow-template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/infowindow_compile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/infowindow_geolookup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/infowindow_ng_click.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/static/styles/jsdoc-default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/filters/jsonize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/kml-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/kml-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/kml-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/static/scripts/prettify/lang-css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-bicycling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-data-dynamic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-data-quakes-advanced.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-data-quakes-default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-data-quakes-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-data-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-data-style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-dynamicmapsengine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-fusiontables-heatmap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-fusiontables-query.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-fusiontables-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-fusiontables-styling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-georss.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-heatmap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-kml-features.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-kml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-mapsengine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-style-event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-traffic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/layer-transit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/layout.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/static/scripts/linenumber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/mainpage.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/controllers/map-controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map-coordinates.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/map-data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/map-data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/map-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map-geolocation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map-gulp-usemin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map-gulp-usemin/map-gulp-usemin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map-initialized-callback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map-initialized.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map-lazy-inint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map-lazy-load-params.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/map-lazy-load.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/map-lazy-load.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/map-lazy-load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map-projection-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/map-type.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/map-type.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/map-type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map-with-dynamic-id.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map_app.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map_control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/directives/map_controller_spec_back.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map_events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map_fit_bounds.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map_geo_fallback_center.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map_no_default_style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map_options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/directives/map_spec_bak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map_with_address.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map_with_current_position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map_with_dynamic_address.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map_with_dynamic_center.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map_zoom_to_include_markers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/maps-engine-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/maps-engine-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/maps-engine-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/mapsenginelayer-noauth-layerid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/mapsenginelayer-noauth-layerkey.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/maptype-base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/maptype-image-overlay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/maptype-image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/maptype-overlay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/maptype-styled-complex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/maptype-styled-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker-animations-iteration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker-animations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker-clusterer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker-remove.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker-symbol-custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker-symbol-predefined.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker-with-default-options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/marker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/marker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/marker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker_data_with_ng_repeat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker_dynamic_ng_repeat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker_icon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker_on_street_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/directives/marker_spec_bak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker_with_address.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker_with_current_position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker_with_dynamic_address.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker_with_ng_repeat_dynamic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker_with_ng_repeat_no_watcher.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/marker_with_parent_controller.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/lib/markerclusterer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/scripts/markerclusterer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/scripts/markerclusterer_packed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/scripts/markers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/members.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/method.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/multiple_maps_on_a_page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/map-gulp-usemin/myapp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/services/navigator-geolocation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/services/navigator_geolocation_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/services/ng-map-pool-spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/services/ng-map-pool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/scripts/ng-map.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/scripts/ng-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/services/ng-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/scripts/ng-map.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/scripts/ng-map.no-dependency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/ngMap.ng-map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/ngMap.ng-map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/ngmap.custom-marker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/ngmap.custom-marker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/overlay-custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/overlay-hideshow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/overlay-map-type.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/overlay-map-type.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/overlay-map-type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/overlay-remove.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/overlay-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/overlay-symbol-animate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/overlay-symbol-arrow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/overlay-symbol-custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/overlay-symbol-dashed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/params.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/places-auto-complete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/places-auto-complete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/places-auto-complete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/places-auto-complete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/polygon-arrays.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/polygon-autoclose.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/polygon-draggable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/polygon-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/polyline-complex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/polyline-remove.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/polyline-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/static/styles/prettify-jsdoc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/lib/prettify-tomorrow-night.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/css/prettify-tomorrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/static/styles/prettify-tomorrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/lib/prettify-tomorrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/css/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/js/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/static/scripts/prettify/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/lib/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/properties.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/publish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/scripts/quakes.geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/rectangle-event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/rectangle-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/rectangle-zoom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/returns.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/road-trip.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/script-tags-for-development.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/shape.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/shape.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/shape.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/shape_circle_with_current_position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/shape_circle_with_dynamic_address.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/directives/shape_spec_bak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/shape_with_ng_repeat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/js/site.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/source.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/scripts/starbucks.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/street-view-panorama.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/street-view-panorama.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/street-view-panorama_container.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/street-view-panorama_container2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/services/street-view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/street-view_road_trip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/directives/street_view_panorama_spec_bak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/services/street_view_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/streetview-panorama.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/streetview-panorama.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/taxi-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/e2e/testapp_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/traffic-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/traffic-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/traffic-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/transit-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/build/docs/source/transit-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/directives/transit-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/tutorial.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/config/jsdoc/template/tmpl/type.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/ui-bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/ui-router.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/ui-router2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/us-states-20m.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movieapi/www/lib/ngmap/testapp/user-editable-shapes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movieapi/www/js/app.js" afterPath="$PROJECT_DIR$/movieapi/www/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movieapi/www/js/bike-controllers.js" afterPath="$PROJECT_DIR$/movieapi/www/js/bike-controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movieapi/www/js/bike-service.js" afterPath="$PROJECT_DIR$/movieapi/www/js/bike-service.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movieapi/www/js/movie-service.js" afterPath="$PROJECT_DIR$/movieapi/www/js/movie-service.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movieapi/www/index.html" afterPath="$PROJECT_DIR$/movieapi/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movieapi/www/templates/tab-bikes.html" afterPath="$PROJECT_DIR$/movieapi/www/templates/tab-bikes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movieapi/www/templates/tabs.html" afterPath="$PROJECT_DIR$/movieapi/www/templates/tabs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weatherAPIApp/www/js/weather-service.js" afterPath="$PROJECT_DIR$/weatherAPIApp/www/js/weather-service.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mobile20171.iws" />
@@ -25,51 +355,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weatherAPIApp/www/js/app.js">
+      <file leaf-file-name="tab-chats.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/firedemo/www/templates/tab-chats.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.407408">
-              <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.11985899">
+              <caret line="6" column="95" selection-start-line="6" selection-start-column="95" selection-end-line="6" selection-end-column="95" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weatherAPIApp/www/js/controllers.js">
+        <entry file="file://$PROJECT_DIR$/firedemo/www/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-16.11111">
+              <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="weather-controllers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weatherAPIApp/www/js/weather-controllers.js">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firedemo/www/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.7777777">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="movie-service.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/movieapi/www/js/movie-service.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.814816">
-              <caret line="41" column="13" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="weather-service.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/weatherAPIApp/www/js/weather-service.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7286203">
-              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state vertical-scroll-proportion="16.37037">
+              <caret line="7" column="87" selection-start-line="7" selection-start-column="87" selection-end-line="7" selection-end-column="87" />
               <folding />
             </state>
           </provider>
@@ -117,17 +427,26 @@
         <option value="$PROJECT_DIR$/movieapi/www/js/movie-controllers.js" />
         <option value="$PROJECT_DIR$/movieapi/www/templates/tab-movies.html" />
         <option value="$PROJECT_DIR$/movieapi/www/templates/movie-detail.html" />
-        <option value="$PROJECT_DIR$/movieapi/www/js/bike-controllers.js" />
-        <option value="$PROJECT_DIR$/movieapi/www/templates/tabs.html" />
-        <option value="$PROJECT_DIR$/movieapi/www/index.html" />
-        <option value="$PROJECT_DIR$/movieapi/www/js/bike-service.js" />
-        <option value="$PROJECT_DIR$/movieapi/www/js/app.js" />
-        <option value="$PROJECT_DIR$/movieapi/www/templates/tab-bikes.html" />
         <option value="$PROJECT_DIR$/weatherAPIApp/www/templates/tab-weather.html" />
         <option value="$PROJECT_DIR$/weatherAPIApp/www/js/app.js" />
         <option value="$PROJECT_DIR$/weatherAPIApp/www/js/weather-controllers.js" />
-        <option value="$PROJECT_DIR$/movieapi/www/js/movie-service.js" />
         <option value="$PROJECT_DIR$/weatherAPIApp/www/js/weather-service.js" />
+        <option value="$PROJECT_DIR$/movieapi/www/js/movie-service.js" />
+        <option value="$PROJECT_DIR$/movieapi/www/templates/bike-detail.html" />
+        <option value="$PROJECT_DIR$/movieapi/www/js/bike-service.js" />
+        <option value="$PROJECT_DIR$/movieapi/www/templates/tab-bikes.html" />
+        <option value="$PROJECT_DIR$/movieapi/www/index.html" />
+        <option value="$PROJECT_DIR$/movieapi/www/js/app.js" />
+        <option value="$PROJECT_DIR$/movieapi/www/templates/tabs.html" />
+        <option value="$PROJECT_DIR$/movieapi/www/js/bike-controllers.js" />
+        <option value="$PROJECT_DIR$/movieapi/www/templates/tab-map.html" />
+        <option value="$PROJECT_DIR$/firedemo/www/js/config.js" />
+        <option value="$PROJECT_DIR$/firedemo/www/index.html" />
+        <option value="$PROJECT_DIR$/firedemo/www/js/app.js" />
+        <option value="$PROJECT_DIR$/firedemo/www/templates/tab-dash.html" />
+        <option value="$PROJECT_DIR$/firedemo/www/templates/chat-detail.html" />
+        <option value="$PROJECT_DIR$/firedemo/www/js/controllers.js" />
+        <option value="$PROJECT_DIR$/firedemo/www/templates/tab-chats.html" />
       </list>
     </option>
   </component>
@@ -139,8 +458,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="450" />
-    <option name="y" value="1" />
+    <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -190,7 +508,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -219,7 +536,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="weatherAPIApp" />
+              <option name="myItemId" value="firedemo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -233,7 +550,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="weatherAPIApp" />
+              <option name="myItemId" value="firedemo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -251,7 +568,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="weatherAPIApp" />
+              <option name="myItemId" value="firedemo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -273,61 +590,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="weatherAPIApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobile20171" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobile20171" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="movieapi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobile20171" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobile20171" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="movieapi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobile20171" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobile20171" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="movieapi" />
+              <option name="myItemId" value="firedemo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -341,6 +604,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,7 +619,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mobile20171\movieapi\www\templates" />
       <recent name="C:\mobile20171" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\mobile20171\movieapi\www\lib" />
+      <recent name="C:\mobile20171\movieapi\www" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index02.html">
@@ -460,27 +729,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="450" y="1" width="960" height="1040" extended-state="0" />
+    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23305085" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20233051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32832617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -506,108 +775,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.346153">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ng2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ng1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.666666">
-          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45637584">
-          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tabs/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tabs/www/templates/chat-detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tabs/www/templates/tab-account.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tabs/www/templates/tab-ibat.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09988249">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tabs/www/templates/tab-chats.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31962398">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tabs/www/templates/tab-dash.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35957697">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tabs/www/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31014824">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tabs/www/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13568985">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -709,31 +880,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movieapi/www/templates/movie-detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.039952997">
-          <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/movieapi/www/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36830103">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movieapi/www/js/bike-service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4960091">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movieapi/www/templates/tab-bikes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19976498">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -744,37 +894,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movieapi/www/templates/tabs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39952996">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movieapi/www/templates/tab-movies.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15981199">
-          <caret line="8" column="61" selection-start-line="4" selection-start-column="16" selection-end-line="8" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movieapi/www/js/bike-controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21322691">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-47.73077">
           <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,23 +905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.296296">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movieapi/www/js/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movieapi/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.1132073">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,7 +912,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,7 +919,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17978849">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,7 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,15 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41950646">
           <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movieapi/www/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.7445838">
-          <caret line="90" column="17" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,7 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.407408">
           <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,7 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -862,22 +954,190 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.7777777">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movieapi/www/js/movie-service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.814816">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/weatherAPIApp/www/js/weather-service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7286203">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6704675">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieapi/www/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.037037">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieapi/www/js/movie-service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6296296">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieapi/www/js/bike-service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.851851">
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieapi/www/templates/tab-bikes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.4905663">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieapi/www/templates/tab-movies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.811321">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieapi/www/templates/movie-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5660377">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieapi/www/templates/bike-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6037736">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieapi/www/lib/ngmap/spec/e2e/testapp_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieapi/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="94" column="23" selection-start-line="94" selection-start-column="23" selection-end-line="94" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieapi/www/templates/tab-map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11985899">
+          <caret line="6" column="70" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieapi/www/js/bike-controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29076397">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieapi/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.061104584">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieapi/www/templates/tabs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63924795">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firedemo/www/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firedemo/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="62" selection-start-line="29" selection-start-column="62" selection-end-line="29" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firedemo/www/templates/tab-dash.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19976498">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firedemo/www/templates/chat-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2596945">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firedemo/www/templates/tabs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabs/www/templates/tab-chats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17978849">
+          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabs/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13568985">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabs/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.4458381">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firedemo/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="16.37037">
+          <caret line="7" column="87" selection-start-line="7" selection-start-column="87" selection-end-line="7" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firedemo/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.11111">
+          <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firedemo/www/templates/tab-chats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11985899">
+          <caret line="6" column="95" selection-start-line="6" selection-start-column="95" selection-end-line="6" selection-end-column="95" />
           <folding />
         </state>
       </provider>

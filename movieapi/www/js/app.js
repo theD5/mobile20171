@@ -6,7 +6,8 @@
 // 'starter.services' is found in services.js
 // 'starter.controllers' is found in controllers.js
 var app = angular.module('starter',
-  ['ionic', 'starter.controllers', 'starter.services','movie.controllers','bike.controllers'])
+  ['ionic', 'starter.controllers', 'starter.services','movie.controllers','bike.controllers',
+    'ngMap'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -91,12 +92,30 @@ var app = angular.module('starter',
   /** /Moveies */
 
   /** Dublin Bike */
+    .state('tab.map', {
+      url: '/bikemap',
+      views: {
+        'tab-map': {
+          templateUrl: 'templates/tab-map.html',
+          controller: 'MapCtrl'
+        }
+      }
+    })
     .state('tab.bikes', {
       url: '/bikes',
       views: {
         'tab-bikes': {
-          templateUrl: 'templates/tab-bikes.html',
-          controller: 'BikesCtrl'
+      templateUrl: 'templates/tab-bikes.html',
+        controller: 'BikesCtrl'
+    }
+  }
+})
+    .state('tab.bike-detail', {
+      url: '/bikes/:bikeId',
+      views: {
+        'tab-bikes': {
+          templateUrl: 'templates/bike-detail.html',
+          controller: 'BikeDetailCtrl'
         }
       }
     })

@@ -43,7 +43,7 @@ app.factory('WeatherService', function ($q, $http) {
 
         console.log("loading", serviceUrl , data);
 
-        angular.forEach(data.results, function (weatherItem) {
+        angular.forEach(data, function (weatherItem) {
 
           //console.log(movieItem)
 
